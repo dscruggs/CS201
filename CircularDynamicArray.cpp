@@ -8,7 +8,6 @@ CS 201 Data Structures Library
 #include <iostream>
 #include <cstdlib>
 using namespace std;
-#define DUMP(X) cout << "size is : " << X.length() << endl << "capacity is : " << X.capacity() << endl; for (int i=0; i< X.length();i++) cout << X[i] << " ";  cout << endl << endl;
 
 
 template <class elmtype>
