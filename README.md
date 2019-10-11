@@ -1,6 +1,8 @@
 # CS201
 Projects from CS201 - Data Structures and Algorithms. Implementation of a circular dynamic array template class including various sorting and selection algorithms in C++.
 
+Download CircularDynamicArray.cpp and main.cpp and compile main.cpp to run. Can input custom code into the main method to use the class.
+
 # Public Methods for CircularDynamicArray
 
 **CircularDynamicArray()** - default constructor, creates array of size 2
