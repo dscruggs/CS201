@@ -3,7 +3,7 @@ Projects from CS201 - Data Structures and Algorithms. Implementation of a circul
 
 Download CircularDynamicArray.cpp and main.cpp and compile main.cpp to run. There's example code in the main method to give an idea on how to use the class.
 
-# Public Methods for CircularDynamicArray
+## Public Methods for CircularDynamicArray
 
 **CircularDynamicArray()** - default constructor, creates array of size 2
 
